@@ -9,7 +9,7 @@ int main(void)
   a[2] = 1024;
   p = &n;
   /*
-   * line of code at row 19
+   * write line of code here...
    * Remember:
    * - you are not allowed to use a
    * - you are not allowed to modify p
